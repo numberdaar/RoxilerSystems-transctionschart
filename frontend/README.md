@@ -49,9 +49,3 @@ A React application for displaying transaction data with filtering, searching, a
     ```
 
 4. Open your browser at `http://localhost:3000` to view the dashboard.
-
-5. **Install dependencies for backend**:
-    ```bash
-    cd backend
-    npm install
-    ```
