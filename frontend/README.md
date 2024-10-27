@@ -27,6 +27,7 @@ A React application for displaying transaction data with filtering, searching, a
 │   ├── index.css                # Global CSS, includes Tailwind
 │   └── reportWebVitals.js       # For measuring performance
 └── tailwind.config.js           # Tailwind CSS configuration
+```
 
 ## Installation
 
